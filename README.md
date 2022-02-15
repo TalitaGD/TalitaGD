@@ -33,6 +33,9 @@ Atualmente estas são as tecnologias que mais conheço:
 </div>
   
 ##
+
+### ▶️:  Redes sociais:
+Essas são as plataformas que mais utilizo.
   
  <div> 
     <a href="https://instagram.com/talitadovigo_?utm_medium=copy_link" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
