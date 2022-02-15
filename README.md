@@ -1,7 +1,7 @@
 ## Oii, eu sou a Talita!
 
 
-### :book: About Me
+### :book: Sobre mim:
 - 🌱 Estudando HTML5 | CSS3 | JS | SASS | React
 - 💕 Apaixonada criação e desenvolvimento! 
 - 📧 Talitadovigo@hotmail.com
@@ -9,8 +9,7 @@
 
 
 ### :computer:  Techs
-
-Currently these are the technologies that I know most:
+Atualmente estas são as tecnologias que mais conheço:
 
 <div align="center">
   <a href="https://github.com/TalitaGD">
@@ -30,20 +29,24 @@ Currently these are the technologies that I know most:
   <img align="center" alt="Tali-vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Tali-pths" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
   <img align="center" alt="Tali-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-  <img align="center" alt="Tali-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg">
-    
+  <img align="center" alt="Tali-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg">  
 </div>
   
-  ##
+##
   
  <div> 
     <a href="https://instagram.com/talitadovigo_?utm_medium=copy_link" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/talita-dovigo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">     </a> 
+  
+ ##
+ ### :snake:  Commit Snake
    
    ![Snake animation](https://github.com/TalitaGD/TalitaGD/blob/output/github-contribution-grid-snake.svg)
    
 </div>
-  
+
+##
+### :eyes: Profile Views
 <p align="center">
 
 ![Visitor Count](https://profile-counter.glitch.me/{TalitaGD}/count.svg)
