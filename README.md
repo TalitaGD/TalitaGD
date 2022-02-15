@@ -40,8 +40,6 @@
    
 </div>
   
-    ### :eyes: Profile Views
-
 <p align="center">
 
 ![Visitor Count](https://profile-counter.glitch.me/{TalitaGD}/count.svg)
