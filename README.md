@@ -1,4 +1,7 @@
 ## Oii, eu sou a Talita!
+
+
+### :book: About Me
 - 🌱 Estudando HTML5 | CSS3 | JS | SASS | React
 - 💕 Apaixonada criação e desenvolvimento! 
 - 📧 Talitadovigo@hotmail.com
@@ -10,6 +13,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalitaGD&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
+ Currently these are the technologies that I know most:
   <div style="display: inline_block"><br>
   <img align="center" alt="Tali-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Tali-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
@@ -20,7 +24,6 @@
   <img align="center" alt="Tali-canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
   <img align="center" alt="Tali-sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
   <img align="center" alt="Tali-vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Tali-lkd" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
   <img align="center" alt="Tali-pths" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
   <img align="center" alt="Tali-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   <img align="center" alt="Tali-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg">
