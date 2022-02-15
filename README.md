@@ -39,3 +39,10 @@
    ![Snake animation](https://github.com/TalitaGD/TalitaGD/blob/output/github-contribution-grid-snake.svg)
    
 </div>
+  
+    ### :eyes: Profile Views
+
+<p align="center">
+
+![Visitor Count](https://profile-counter.glitch.me/{TalitaGD}/count.svg)
+</p>
