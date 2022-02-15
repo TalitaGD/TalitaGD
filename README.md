@@ -1,3 +1,9 @@
+## Oii, eu sou a Talita!
+- 🌱 Estudando HTML5 | CSS3 | JS | SASS | React
+- 💕 Apaixonada criação e desenvolvimento! 
+- 📧 Talitadovigo@hotmail.com
+- ✨ Pronouns: ela/dela
+
 <div align="center">
   <a href="https://github.com/TalitaGD">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=TalitaGD&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
