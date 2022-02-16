@@ -51,7 +51,7 @@ Essas são as plataformas que mais utilizo.
 ##
 ### :eyes: Profile Views
 <p align="center">
-  color: red;
+
 
 ![Visitor Count](https://profile-counter.glitch.me/{TalitaGD}/count.svg)
 </p>
