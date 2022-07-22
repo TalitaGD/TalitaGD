@@ -44,6 +44,7 @@ Essas são as plataformas que mais utilizo.
  <div> 
     <a href="https://instagram.com/talitadovigo_?utm_medium=copy_link" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/talita-dovigo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">     </a> 
+     <a href="https://portfolio-eight-xi-68.vercel.app" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">     </a> 
   
  ##
  ### :snake:  Commit Snake
