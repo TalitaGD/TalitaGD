@@ -2,7 +2,7 @@
 
 
 ### :book: Sobre mim:
-- 🌱 Estudando HTML5 | CSS3 | JS | SASS | React | Vue | DevOps
+- 🌱 Estudando HTML5 | CSS3 | JS | SASS | React | DevOps
 - 💕 Apaixonada por criação e desenvolvimento! 
 - 📧 Talitadovigo@hotmail.com
 - ✨ Pronouns: ela/dela
