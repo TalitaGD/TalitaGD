@@ -37,7 +37,7 @@ Atualmente estas são as tecnologias que mais conheço:
   <img align="center" alt="Tali-boots" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" />     
   <img align="center" alt="Tali-boots" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />   
 
-    
+
           
           
 </div>
