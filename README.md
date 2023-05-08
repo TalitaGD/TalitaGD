@@ -8,7 +8,7 @@
 
 
 
-### :computer:  Techs
+### :computer:  Skills
 Atualmente estas são as tecnologias que mais conheço:
 
 <div align="center">
