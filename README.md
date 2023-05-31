@@ -4,7 +4,6 @@
 ### :book: Sobre mim:
 - 🌱 HTML5 | CSS3 | JavaScript | SASS | DevOps
 - 💕 Apaixonada por criação e desenvolvimento! 
-- 📧 Talitadovigo@hotmail.com
 
 
 
