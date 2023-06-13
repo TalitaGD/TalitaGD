@@ -35,7 +35,6 @@ Atualmente estas são as tecnologias que mais conheço:
   <img align="center" alt="Tali-boots" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />   
 </div>
   
-##
 
  ### :snake:  Commit Snake
    
