@@ -2,12 +2,11 @@
 
 
 ### :book: Sobre mim:
-- 🌱 HTML5 | CSS3 | JavaScript | SASS | DevOps
+- 🌱 HTML5 | CSS3 | JavaScript | SASS | DevOps | Bootstrap5
 - 💕 Apaixonada por criação e desenvolvimento! 
 
 
-
-### :computer:  Skills
+### :computer:  Minhas skills
 Atualmente estas são as tecnologias que mais conheço:
 
 <div align="center">
@@ -34,20 +33,10 @@ Atualmente estas são as tecnologias que mais conheço:
   <img align="center" alt="Tali-boots" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" />
   <img align="center" alt="Tali-boots" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" />     
   <img align="center" alt="Tali-boots" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />   
-         
-          
 </div>
   
 ##
 
-### ▶️:  Redes sociais:
-Essas são as plataformas que mais utilizo.
-  
- <div> 
-    <a href="https://instagram.com/talitadovigo_?utm_medium=copy_link" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/talita-dovigo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">     </a> 
-  
- ##
  ### :snake:  Commit Snake
    
    ![Snake animation](https://github.com/TalitaGD/TalitaGD/blob/output/github-contribution-grid-snake.svg)
