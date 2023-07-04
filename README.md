@@ -38,7 +38,9 @@ Atualmente estas são as tecnologias que mais conheço:
 
  ### :snake:  Commit Snake
    
-   ![Snake animation](https://github.com/TalitaGD/TalitaGD/blob/output/github-contribution-grid-snake.svg)
+
+
+   ![Snake animation](https://github.com/TalitaGD/Talita_GD/blob/TalitaGD-patch-1/.github/workflows/TalitaGD.yml)
    
 </div>
 
