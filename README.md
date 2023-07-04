@@ -39,7 +39,7 @@ Atualmente estas são as tecnologias que mais conheço:
 
 <div align="center">
   
-   ![Snake animation] (https://github.com/TalitaGD/TalitaGD/blob/output/github-contribution-grid-snake.svg) 
+   ![Snake animation](https://github.com/TalitaGD/TalitaGD/blob/output/github-contribution-grid-snake.svg) 
    
 </div>
 
