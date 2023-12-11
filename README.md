@@ -1,7 +1,7 @@
 ## Oii, eu sou a Talita!
 
 
-### Sobre mim:
+### 📘 Sobre mim:
 - 🥇  Desenvolvodora Front-End
 - 🌱  HTML5, CSS3, JavaScript, SASS e Bootstrap5.
 - 💕  Apaixonada pela arte da criação e desenvolvimento!
