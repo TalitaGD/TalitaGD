@@ -3,7 +3,7 @@
 
 ### 📘 Sobre mim:
 - 🥇  Desenvolvodora Front-End
-- 🌱  HTML5, CSS3, JavaScript, SASS e Bootstrap5.
+- 🌱  HTML5, CSS3, JavaScript e Bootstrap5.
 - 💕  Apaixonada pela arte da criação e desenvolvimento!
 - 📚  Sempre em busca de conhecimento e aprendizado contínuo!
 
