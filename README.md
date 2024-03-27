@@ -1,4 +1,4 @@
-ai## Oii, eu sou a Talita!
+🙃 Oii, eu sou a Talita!
 
 
 ### 📘 Sobre mim:
