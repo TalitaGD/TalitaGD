@@ -1,5 +1,4 @@
-🙃 Oi, eu sou a Talita!
-Desenvolvedora Front-End focada em criar interfaces modernas, responsivas e bem estruturadas.
+🙃 Desenvolvedora Front-End focada em criar interfaces modernas, responsivas e bem estruturadas.
 
 ---
 
@@ -35,6 +34,8 @@ Desenvolvedora Front-End focada em criar interfaces modernas, responsivas e bem 
   <img align="center" alt="Tali-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   <img align="center" alt="Tali-Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
   <img align="center" alt="Tali-XD" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg">
+  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+
   <img align="center" alt="Tali-Illustrator" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg">
   <img align="center" alt="Tali-Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
   <img align="center" alt="Tali-Behance" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg">
