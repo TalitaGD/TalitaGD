@@ -65,8 +65,6 @@
 
   <!-- 🤖 IA & Automação -->
   <img align="center" alt="ChatGPT" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg">
-  <img align="center" alt="AI" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/8832/8832119.png">
-  <img align="center" alt="Google Gemini" height="30" width="40" src="https://seeklogo.com/images/G/google-gemini-logo-9CB67F408D-seeklogo.com.png">
 </div>
 
 ---
