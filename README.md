@@ -47,7 +47,6 @@ Desenvolvedora Front-End focada em criar interfaces modernas, responsivas e bem 
   <img align="center" alt="Tali-HubSpot" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/hubspot.svg">
   <img align="center" alt="Tali-ChatGPT" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg">
   <img align="center" alt="Tali-AI" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/8832/8832119.png">
-  <img align="center" alt="Tali-Gemini" height="30" width="40" src="https://seeklogo.com/images/G/google-gemini-logo-9CB67F408D-seeklogo.com.png">
 </div>
 
 ---
