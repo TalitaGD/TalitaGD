@@ -53,6 +53,7 @@ Atualmente estas são as tecnologias que mais uso no dia a dia:
 
 ![Snake animation](https://raw.githubusercontent.com/TalitaGD/TalitaGD/output/github-contribution-grid-snake.svg)
 
+
 ---
 
 ### 👀 Profile Views
