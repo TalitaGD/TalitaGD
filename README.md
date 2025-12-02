@@ -41,7 +41,6 @@ Desenvolvedora Front-End focada em criar interfaces modernas, responsivas e bem 
   <img align="center" alt="Tali-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Tali-Jira" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg">
   <img align="center" alt="Tali-Slack" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg">
-  <img align="center" alt="Tali-ClickUp" height="30" width="40" src="https://styles.redditmedia.com/t5_5r0tpq/styles/communityIcon_6rbixkdb2q8c1.png">
   <img align="center" alt="Tali-Miro" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/miro-2.svg">
   <img align="center" alt="Tali-Vercel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg">
   <img align="center" alt="Tali-HubSpot" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/hubspot.svg">
