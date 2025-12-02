@@ -59,5 +59,5 @@ Atualmente estas são as tecnologias que mais uso no dia a dia:
 ### 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TalitaGD&color=blue&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=TalitaGD&label=Profile%20views&color=ff69b4&style=for-the-badge" />
 </p>
