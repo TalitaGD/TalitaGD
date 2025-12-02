@@ -49,10 +49,9 @@ Atualmente estas são as tecnologias que mais uso no dia a dia:
 </div>
 
 ---
-
 ### 🐍 Commit Snake
 
-![Snake animation](https://github.com/TalitaGD/TalitaGD/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/TalitaGD/TalitaGD/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -61,3 +60,4 @@ Atualmente estas são as tecnologias que mais uso no dia a dia:
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=TalitaGD&label=Profile%20views&color=ff69b4&style=for-the-badge" />
 </p>
+
