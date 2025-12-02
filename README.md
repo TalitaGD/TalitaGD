@@ -7,7 +7,6 @@
 - 🌱 Trabalho com: HTML5, CSS3, JavaScript, React, NodeJs e Bootstrap  
 - 💕 Apaixonada por transformar ideias em interfaces reais  
 - 📚 Sempre aprendendo e explorando novas tecnologias
-- 💼 LinkedIn: _adicione aqui se quiser_
 
 ---
 
