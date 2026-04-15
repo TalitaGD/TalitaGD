@@ -56,7 +56,11 @@
   <img alt="Vercel" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg">
   <img alt="HubSpot" height="30" src="https://cdn.worldvectorlogo.com/logos/hubspot.svg">
 
+  <!-- 🤖 IA & Automação -->
   <img alt="ChatGPT" height="30" src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg">
+  <img alt="Cursor" height="30" src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4">
+  <img alt="Windsurf" height="30" src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/windsurf.png">
+  <img alt="Claude" height="30" src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/claude.png">
 
 </div>
 
