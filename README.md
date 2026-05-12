@@ -12,9 +12,6 @@
 
 ## 🧩 Skills
 
-
-## 🧩 Skills
-
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
   
   <img alt="HTML" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
