@@ -48,16 +48,16 @@
   <img alt="Jira" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg">
   <img alt="Slack" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg">
 
-  <img alt="Miro" height="30" src="https://cdn.worldvectorlogo.com/logos/miro-2.svg">
+  <img alt="Miro" height="30" src="https://cdn.simpleicons.org/miro/FFDD33">
 
-  <img alt="Vercel" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg">
-  <img alt="HubSpot" height="30" src="https://cdn.worldvectorlogo.com/logos/hubspot.svg">
+  <img alt="Vercel" height="30" src="https://cdn.simpleicons.org/vercel/white">
+  <img alt="HubSpot" height="30" src="https://cdn.simpleicons.org/hubspot/FF7A59">
 
   <!-- 🤖 IA & Automação -->
   <img alt="ChatGPT" height="30" src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg">
   <img alt="Cursor" height="30" src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4">
-  <img alt="Windsurf" height="30" src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/windsurf.png">
-  <img alt="Claude" height="30" src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/claude.png">
+  <img alt="Windsurf" height="30" src="https://cdn.simpleicons.org/windsurf/white">
+  <img alt="Claude" height="30" src="https://cdn.simpleicons.org/claude/D97757">
 
 </div>
 
